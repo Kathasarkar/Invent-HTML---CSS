@@ -1458,8 +1458,10 @@ header.sticky nav ul li a:hover{
 .form-label input:focus{
     border-color: var(--accent);
 }
-.form-label textarea{
+.form-label-2 textarea{
     width: 100% !important;
+    height: 70px;
+    padding: 10px;
 }
 .form-label i{
     color: var(--accent);
